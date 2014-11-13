@@ -1,4 +1,4 @@
 go-utility
 ==========
 
-Generic useful go methods
+Generic useful go methods.
